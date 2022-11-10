@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate developer from Argentina and my currently stack is MERN</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **agusleongomez@gmail.com**
 
