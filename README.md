@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **Nest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
